@@ -30,7 +30,7 @@ También se realiza una calibración empírica utilizando precios históricos de
 Puedes instalar los requisitos ejecutando:
 
 ```bash
-pip install yfinance==0.2.58 pandas numpy matplotlib scipy time
+pip install yfinance==0.2.58 pandas numpy matplotlib scipy
 ```
 
 Puedes visualizar el Notebook abriendo el archivo desde Google Colab o JupyterLab
